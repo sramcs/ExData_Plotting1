@@ -1,4 +1,4 @@
-## Introduction
+	## Introduction
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -112,3 +112,14 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Solution
+
+* Plots can be found in the plots directory of this repository in PNG files per 
+  specification.
+
+* The R code to create each of the plots is available in the scripts directory of 
+  this repository."getdata.R" reads the data from the file and filter required data
+  
+## Assumption
+
+* Data file is downloaded ,placed and unzipped in the working directory
